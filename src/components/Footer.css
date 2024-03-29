@@ -1,0 +1,9 @@
+.Foot{
+    color: antiquewhite;
+    background: rgb(30, 30, 30);
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 100vw;
+    padding: 7px;
+}

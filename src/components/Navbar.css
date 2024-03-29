@@ -1,0 +1,8 @@
+ul{
+    color:antiquewhite;
+    padding: 10px;
+    display: flex;
+    background: rgb(30, 30, 30);
+    list-style: none;
+    justify-content: space-around;
+}
